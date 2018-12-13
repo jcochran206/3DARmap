@@ -24,5 +24,6 @@ This application is using MIT License for Open source software
 ## Copyrights reserved 2018 Jonathan Cochran
 ## Video ScreenShots
 <video width="320" height="240" controls>
-  <source src="3dMapApp.mov" type="video/mp4">
+  <source src="/3dMapApp.mov" type="video/mp4">
 </video>
+[![Video](file:3dMapApp.mov)]
