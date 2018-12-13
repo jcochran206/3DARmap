@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Pack/Scripts/listView.cs">
     <Files>
-      <File FileName="Assets/Pack/Scripts/SceneController.cs" Line="28" Column="5" />
+      <File FileName="Assets/Pack/Scripts/SceneController.cs" Line="28" Column="1" />
       <File FileName="Assets/Pack/Scripts/listView.cs" Line="136" Column="67" />
       <File FileName="Assets/Pack3/GeoCodeCalc.cs" Line="34" Column="215" />
     </Files>

@@ -31,7 +31,7 @@ public class listView : MonoBehaviour {
     IEnumerator makeUrlRequest()
     {
         //string url = "https://www.buildandrun.tv/GPSCourse/parksJson.json";
-        string url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" + GPS.latitude + "," + GPS.longitude + "&radius=500&type=" + SceneController.keyword + "&key=AIzaSyCNf95FFLzSNO3Wj7aGH-uM7RcZmYk9y9c";
+        string url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" + GPS.latitude + "," + GPS.longitude + "&radius=500&type=" + SceneController.keyword + "&key=yourkey";
         using (WWW www = new WWW(url))
         {
             yield return www;
