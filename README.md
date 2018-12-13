@@ -23,4 +23,4 @@ This app utilizes the user’s location and parses Googles places API to show lo
 This application is using MIT License for Open source software
 ## Copyrights reserved 2018 Jonathan Cochran
 ## Video ScreenShots
-![Video](3dMapApp.mov)
+![Video](3DARmap/3dMapApp.mov)
