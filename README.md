@@ -22,3 +22,7 @@ This app utilizes the user’s location and parses Googles places API to show lo
 ## legal 
 This application is using MIT License for Open source software
 ## Copyrights reserved 2018 Jonathan Cochran
+## Video ScreenShots
+<video width="320" height="240" controls>
+  <source src="3dMapApp.mov" type="video/mp4">
+</video>
