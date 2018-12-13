@@ -1,14 +1,14 @@
 # 3DARmap
 ## Description 
-This app utilizes the user’s location and parses Googles places API to show locations of nearby items.  
+This app utilizes the user’s location and parses Googles places API to show locations of nearby items. Distance is provided in meters and is limited to 500 meters from user location.  Search is conducted based on keyword assocaited with buttons.   
 ## Technologies used
 - Unity Software 
 - C# 
 - Objective C
 ## Features
-- users choose from one of 4 ways to search for interested items in their local area 
-- users device location is geoprocess to provide nearest location of selected interested item
-- user is redirected in the app and is provided direction to selected location
+- choose from one of four options to search for interested items in their local area 
+- device location is geoprocessed to provide nearest location of selected interested item
+- user is redirected in the app and is provided directions to selected location
 ## Requirements 
 - Xcode 11.0 
 - iOS 10.0
